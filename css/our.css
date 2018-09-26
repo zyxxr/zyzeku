@@ -1,0 +1,77 @@
+.employ{
+    overflow: hidden;
+    background: #302a34;
+}
+.employ .employ-title{
+    width: 145px;
+    margin:0 auto;
+    background: #dfd1b5;
+    text-align: center;
+    border-radius: 50px;
+    margin-top: 30px;
+}
+.employ .employ-title h3{
+    color: #302a34;
+    padding: 4px 5px;
+    font-size: 20px;
+}
+
+.employ .employ-min h1{
+    font-size: 20px;
+    color: #dfd1b5;
+}
+.employ .employ-min h3{
+    font-size: 16px;
+    color: #dfd1b5;
+    margin-left: 10px;
+}
+.employ .employ-min p{
+    color: #dfd1b5;
+    margin-left: 10px;
+}
+.employ .employ-min p.p1,
+.employ .employ-min p.p2{
+    margin-top: 20px;
+    font-size: 18px;
+}
+.employ .employ-min span{
+    margin-left: 50px;
+    color: #dfd1b5;
+}
+
+
+
+.our{
+    overflow: hidden;
+    background: #302a34;
+    padding-top: 60px;
+    padding-bottom: 100px;
+}
+.our .our-title{
+    width: 145px;
+    margin:0 auto;
+    background: #dfd1b5;
+    text-align: center;
+    border-radius: 50px;
+    margin-top: 30px;
+}
+.our .our-title h3{
+    color: #302a34;
+    padding: 4px 5px;
+    font-size: 20px;
+}
+
+.our .our-min{
+    text-align: center;
+    color: #dfd1b5;
+    margin-top: 30px;
+}
+.our .our-min p.p1{
+    font-size: 18px;
+}
+.our .our-min p.p2{
+    font-size: 16px;
+}
+.our .our-min p.p3{
+    font-size: 14px;
+}

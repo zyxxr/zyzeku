@@ -1,0 +1,136 @@
+.survey{
+    overflow: hidden;
+    background: #302a34;
+}
+.survey .survey-title{
+    width: 145px;
+    margin:0 auto;
+    background: #dfd1b5;
+    text-align: center;
+    border-radius: 50px;
+    margin-top: 30px;
+}
+.survey .survey-title h3{
+    color: #302a34;
+    padding: 4px 5px;
+    font-size: 20px;
+}
+.survey .survey-min p{
+    color: #dfd1b5;
+    font-size: 16px;
+    font-weight: 200;
+    margin-top: 25px;
+}
+.liner{
+    width: 1px;
+    height: 888px;
+    background: #dfd1b5;
+    left: 50%;
+    top:688px;
+    position: absolute;
+}
+.news{
+    overflow: hidden;
+    background: #cd172c;
+}
+.news .news-title{
+    width: 145px;
+    margin:0 auto;
+    background: #dfd1b5;
+    text-align: center;
+    border-radius: 50px;
+    margin-top: 30px;
+}
+.news .news-title h3{
+    color: #302a34;
+    padding: 4px 5px;
+    font-size: 20px;
+}
+.news .news-min{
+    text-align: center;
+    overflow: hidden;
+}
+.item{
+    width: 68px;
+    height: 68px;
+    margin: 0 auto;
+    position: relative;
+}
+.item-s{
+    width: 20px;
+    height: 23px;
+    position: relative;
+    margin:0 auto;
+}
+.item img,.item-s img{
+    width: 100%;
+    height: 100%;
+}
+.item-s span{
+    position: absolute;
+    top: 23px;
+    left: 17px;
+    font-size: 16px;
+    color: #cd172c;
+}
+.item span{
+    position: absolute;
+    top: 23px;
+    left: 17px;
+    font-size: 16px;
+    color: #cd172c;
+}
+.itemRight{
+    position: absolute;
+    right: 642px;
+    top: 650px;
+    color: #dfd1b5;
+}
+.itemRight1{
+    position: absolute;
+    right: 616px;
+    top: 998px;
+    color: #dfd1b5;
+}
+.itemRight2{
+    position: absolute;
+    right: 582px;
+    top: 1186px;
+    color: #dfd1b5;
+}
+.itemRight3{
+    position: absolute;
+    right: 538px;
+    top: 1355px;
+    color: #dfd1b5;
+}
+.itemRight4{
+    position: absolute;
+    right: 630px;
+    top: 1590px;
+    color: #dfd1b5;
+}
+.itemLeft{
+    position: absolute;
+    left:567px;
+    top: 820px;
+    color: #dfd1b5;
+}
+.itemLeft1{
+    position: absolute;
+    left:600px;
+    top: 1089px;
+    color: #dfd1b5;
+}
+.itemLeft2{
+    position: absolute;
+    left:600px;
+    top: 1242px;
+    color: #dfd1b5;
+}
+.itemLeft3{
+    position: absolute;
+    left:625px;
+    top: 1473px;
+    color: #dfd1b5;
+}

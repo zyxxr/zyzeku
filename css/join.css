@@ -1,0 +1,161 @@
+.brand{
+    overflow: hidden;
+    background: #302a34;
+}
+.brand .brand-title{
+    width: 145px;
+    margin:0 auto;
+    background: #dfd1b5;
+    text-align: center;
+    border-radius: 50px;
+    margin-top: 30px;
+}
+.brand .brand-title h3{
+    color: #302a34;
+    padding: 4px 5px;
+    font-size: 20px;
+}
+.brand .brand-min{
+    overflow: hidden;
+}
+.brand .brand-min .minImg{
+    background: url('../images/head-1.png') no-repeat;
+    background-size: 140px;
+    height: 150px;
+    background-position: center;
+}
+.brand .brand-min .minText{
+    color: #dfd1b5;
+    text-align: center;
+}
+.brand .brand-min .minText h2{
+    font-size: 24px;
+}
+.brand .brand-min .minText p{
+    font-size: 14px;
+    width: 95%;
+}
+
+
+
+
+.market{
+    overflow: hidden;
+    background: url('../images/sid-1.png') no-repeat;
+    height: 720px;
+    background-size: 100% 100%;
+}
+.market .market-title{
+    width: 145px;
+    margin:0 auto;
+    background: #cd172c;
+    text-align: center;
+    border-radius: 50px;
+    margin-top: 30px;
+}
+.market .market-title h3{
+    color: #f2eada;
+    padding: 4px 5px;
+    font-size: 20px;
+}
+
+
+.strength{
+    overflow: hidden;
+    background: #a38b79;
+}
+.strength .strength-title{
+    width: 145px;
+    margin:0 auto;
+    background: #dfd1b5;
+    text-align: center;
+    border-radius: 50px;
+    margin-top: 30px;
+}
+.strength .strength-title h3{
+    color: #000;
+    padding: 4px 5px;
+    font-size: 20px;
+}
+
+
+.mode{
+    overflow: hidden;
+    background: #302a34;
+}
+.mode .mode-title{
+    width: 145px;
+    margin:0 auto;
+    background: #dfd1b5;
+    text-align: center;
+    border-radius: 50px;
+    margin-top: 30px;
+}
+.mode .mode-title h3{
+    color: #000;
+    padding: 4px 5px;
+    font-size: 20px;
+}
+
+
+
+.support{
+    overflow: hidden;
+    background: #cd172c;
+}
+.support .support-title{
+    width: 145px;
+    margin:0 auto;
+    background: #dfd1b5;
+    text-align: center;
+    border-radius: 50px;
+    margin-top: 30px;
+}
+.support .support-title h3{
+    color: #000;
+    padding: 4px 5px;
+    font-size: 20px;
+}
+
+
+.supports{
+    overflow: hidden;
+    background: #302a34;
+}
+.supports .supports-title{
+    width: 145px;
+    margin:0 auto;
+    background: #dfd1b5;
+    text-align: center;
+    border-radius: 50px;
+    margin-top: 30px;
+}
+.supports .supports-title h3{
+    color: #000;
+    padding: 4px 5px;
+    font-size: 20px;
+}
+
+
+
+
+.join{
+    overflow: hidden;
+    background: #a38b79;
+}
+.join .join-title{
+    width: 145px;
+    margin:0 auto;
+    background: #dfd1b5;
+    text-align: center;
+    border-radius: 50px;
+    margin-top: 30px;
+}
+.join .join-title h3{
+    color: #000;
+    padding: 4px 5px;
+    font-size: 20px;
+}
+.join .join-min .joinImg{
+    text-align: center;
+}

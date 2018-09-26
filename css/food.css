@@ -1,0 +1,118 @@
+.food{
+    overflow: hidden;
+    background: #302a34;
+}
+.food .food-title{
+    width: 145px;
+    margin:0 auto;
+    background: #dfd1b5;
+    text-align: center;
+    border-radius: 50px;
+    margin-top: 30px;
+}
+.food .food-title h3{
+    color: #302a34;
+    padding: 4px 5px;
+    font-size: 20px;
+}
+.food-main .big{
+    margin-top: 20px;
+}
+.food-main .big .mainText{
+    text-align: center;
+}
+.food-main .big .mainText h4{
+    color: #dfd1b5;
+    font-size: 20px;
+}
+.food-main .big .mainText p{
+    color: #dfd1b5;
+    font-size: 14px;
+    font-weight: 100;
+    width: 86%;
+    margin: 0 auto;
+}
+
+.food-main .mainSmall{
+    overflow: hidden;
+    width: 1168px;
+    margin-left: -15px;
+}
+.food-main .mainSmall a{
+    display: block;
+    background: url(../images/f-1.jpg) no-repeat;
+    background-size: cover;
+    width: 100%;
+    text-align: center;
+    height: 300px;
+    position: relative;
+    margin-top: 15px;
+}
+.food-main .mainSmall a h3{
+    background: rgba(0, 0, 0, 0.6) none repeat scroll 0 0;
+    color: #fff;
+    font-weight: 200;
+    padding: 16px 0;
+    border-top: 2px solid #e4007f;
+    width: 100%;
+    font-size: 16px;
+    margin: 0;
+    position: absolute;
+    bottom: 0;
+}
+.food-main .mainSmall a.bb{
+    background: url(../images/f-2.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+.food-main .mainSmall a.cc{
+    background: url(../images/f-3.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+.food-main .mainSmall a.dd{
+    background: url(../images/f-4.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+.food-main .mainSmall a.ee{
+    background: url(../images/f-5.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+.food-main .mainSmall a.ff{
+    background: url(../images/f-6.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+.food-main .mainSmall a.gg{
+    background: url(../images/f-7.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+.food-main .mainSmall a.hh{
+    background: url(../images/f-12.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+.food-main .mainSmall a.ii{
+    background: url(../images/f-13.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+.food-main .mainSmall a.jj{
+    background: url(../images/f-14.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+.food-main .mainSmall a.kk{
+    background: url(../images/f-15.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+.food-main .mainSmall a.ll{
+    background: url(../images/f-16.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+.food-main .mainSmall a.mm{
+    background: url(../images/f-17.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+.food-main .mainSmall a.nn{
+    background: url(../images/f-18.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+.food-main .mainSmall a.oo{
+    background: url(../images/f-18.jpg) no-repeat;
+    background-size: 100% 100%;
+}
